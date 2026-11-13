@@ -1,0 +1,43 @@
+{
+ "mssv": "2A202603225",
+ "ten": "NgoXuanTung",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "tungnx",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000019754.jpg",
+  "000000057978.jpg",
+  "000000164659.jpg",
+  "000000292999.jpg",
+  "000000294329.jpg",
+  "000000091637.jpg",
+  "000000189365.jpg",
+  "000000220045.jpg",
+  "000000043719.jpg",
+  "000000307757.jpg",
+  "000000167027.jpg",
+  "000000381889.jpg"
+ ],
+ "faces": [
+  "face_145751.jpg",
+  "face_300399.jpg",
+  "face_575921.jpg",
+  "face_356144.jpg",
+  "face_442231.jpg",
+  "face_143959.jpg",
+  "face_405456.jpg",
+  "face_483667.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 15,
+   "job_id": 15,
+   "task_name": "persons-NgoXuanTung"
+  },
+  "faces": {
+   "task_id": 16,
+   "job_id": 16,
+   "task_name": "faces-NgoXuanTung"
+  }
+ }
+}
